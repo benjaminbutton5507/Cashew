@@ -1,0 +1,1 @@
+[INFO] Printed "Hello, World!" - src/main.cpp:9
